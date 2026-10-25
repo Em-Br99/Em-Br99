@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hallo, ich bin Emanuel 👋
 
-<!--
-**Em-Br99/Em-Br99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Produktionsmechaniker EFZ mit über zehn Jahren Erfahrung in der Präzisionsfertigung,
+jetzt auf dem Weg in die IT. Ich studiere berufsbegleitend
+**Informatiker HF Systemtechnik** an der HFTM.
 
-Here are some ideas to get you started:
+Aus der Fertigung bringe ich strukturierte Fehlersuche und Qualitätsbewusstsein mit.
+In der IT interessieren mich Systemtechnik, Support und Automatisierung.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Im Alltag sicher
+Windows · macOS · Microsoft 365 · PC-Hardware
+
+## Am Lernen (Studium und Homelab)
+Netzwerk-Grundlagen · PowerShell · Docker · Windows Server und Active Directory ·
+Virtualisierung · Python · Cisco Packet Tracer
+
+## Projekte
+- 💡 **OXOWake:** Lichtwecker mit OXOCard, Philips Hue und Python Flask (Schulprojekt) (Repo folgt)
+- 🖥️ **Homelab:** meine Übungsumgebung, hier dokumentiere ich, was ich lerne (Repo folgt)
