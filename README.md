@@ -15,5 +15,5 @@ Netzwerk-Grundlagen · PowerShell · Docker · Windows Server und Active Directo
 Virtualisierung · Python · Cisco Packet Tracer
 
 ## Projekte
-- 💡 **OXOWake:** Lichtwecker mit OXOCard, Philips Hue und Python Flask (Schulprojekt) (Repo folgt)
+- 💡 **OXOWake:** Lichtwecker mit OXOCard, Philips Hue und Python Flask (Schulprojekt)
 - 🖥️ **Homelab:** meine Übungsumgebung, hier dokumentiere ich, was ich lerne (Repo folgt)
