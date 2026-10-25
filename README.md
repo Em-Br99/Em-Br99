@@ -8,7 +8,7 @@ Aus der Fertigung bringe ich strukturierte Fehlersuche und Qualitätsbewusstsein
 In der IT interessieren mich Systemtechnik, Support und Automatisierung.
 
 ## Im Alltag sicher
-Windows · macOS · Microsoft 365 · PC-Hardware
+Windows · Microsoft 365 · macOS
 
 ## Am Lernen (Studium und Homelab)
 Netzwerk-Grundlagen · PowerShell · Docker · Windows Server und Active Directory ·
