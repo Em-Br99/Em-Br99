@@ -10,7 +10,7 @@ In der IT interessieren mich Systemtechnik, Support und Automatisierung.
 ## Im Alltag sicher
 Windows · Microsoft 365 · macOS
 
-## Am Lernen (Studium und Homelab)
+## Am Lernen (Studium und Selbststudium)
 Netzwerk-Grundlagen · PowerShell · Docker · Virtualisierung · Python · Cisco Packet Tracer
 
 ## Projekte
