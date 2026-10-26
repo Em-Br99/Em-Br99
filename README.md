@@ -11,8 +11,7 @@ In der IT interessieren mich Systemtechnik, Support und Automatisierung.
 Windows · Microsoft 365 · macOS
 
 ## Am Lernen (Studium und Homelab)
-Netzwerk-Grundlagen · PowerShell · Docker · Windows Server und Active Directory ·
-Virtualisierung · Python · Cisco Packet Tracer
+Netzwerk-Grundlagen · PowerShell · Docker · Virtualisierung · Python · Cisco Packet Tracer
 
 ## Projekte
 - 💡 **[OXOWake](https://github.com/Em-Br99/OXOWake):** Lichtwecker mit OXOCard, Philips Hue und Python Flask (Schulprojekt)
